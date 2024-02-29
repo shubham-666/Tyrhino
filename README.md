@@ -1,1 +1,1 @@
-[![live deployed](https://app.netlify.com/sites/shubham-tiwari-tyrhino-assigment/deploys)
+[![live deployed](https://shubham-tiwari-tyrhino-assigment.netlify.app/)

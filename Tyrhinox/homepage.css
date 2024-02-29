@@ -1,0 +1,164 @@
+.were-farmers-purveyors-container {
+  position: absolute;
+  width: calc(100% - 420px);
+  top: 279px;
+  left: 217px;
+  font-size: var(--font-size-45xl);
+  letter-spacing: -0.02em;
+  line-height: 120%;
+  text-align: center;
+  display: inline-block;
+  font-family: var(--font-newsreader);
+}
+.browse-our-shop {
+  position: absolute;
+  top: calc(50% - 13px);
+  left: calc(50% - 81.5px);
+  line-height: 130%;
+  font-weight: 600;
+}
+.button {
+  position: absolute;
+  top: 481px;
+  left: calc(50% - 113px);
+  border-radius: var(--br-5xs);
+  background-color: var(--color-darkolivegreen);
+  width: 227px;
+  height: 64px;
+  overflow: hidden;
+  color: var(--color-white);
+}
+.we-believe-in {
+  margin: 0;
+}
+.we-believe-in-container,
+.what-we-believe {
+  position: absolute;
+  top: 1550px;
+  left: 309px;
+  line-height: 160%;
+  display: inline-block;
+  width: 822px;
+}
+.what-we-believe {
+  top: 1555px;
+  left: 96px;
+  font-size: var(--font-size-sm);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 600;
+  width: 181px;
+}
+.jonathan-kemper-1hhrdiolfpu-un-icon {
+  position: absolute;
+  width: calc(100% - 936px);
+  top: 701px;
+  right: 840px;
+  left: 96px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 693px;
+  object-fit: cover;
+}
+.central-california {
+  font-weight: 500;
+}
+.the-person-who {
+  font-weight: 300;
+}
+.central-california-container {
+  position: absolute;
+  width: calc(100% - 704px);
+  top: 1287px;
+  left: 660px;
+  font-size: var(--font-size-sm);
+  letter-spacing: -0.01em;
+  line-height: 160%;
+  display: inline-block;
+}
+.world-peas {
+  position: absolute;
+  top: 41px;
+  left: 96px;
+  font-size: var(--font-size-13xl);
+  letter-spacing: -0.01em;
+  line-height: 100%;
+  font-weight: 500;
+  font-family: var(--font-newsreader);
+  color: var(--color-darkolivegreen);
+  text-align: left;
+}
+.newstand,
+.shop {
+  position: absolute;
+  top: 45.5px;
+  right: 657px;
+  line-height: 130%;
+}
+.newstand {
+  right: 532px;
+}
+.who-we-are {
+  top: 45.5px;
+  right: 394px;
+}
+.basket-3,
+.my-profile,
+.who-we-are {
+  position: absolute;
+  line-height: 130%;
+}
+.my-profile {
+  top: 45.5px;
+  right: 270px;
+}
+.basket-3 {
+  top: calc(50% - 10.5px);
+  left: calc(50% - 40px);
+  font-weight: 600;
+}
+.cart-button,
+.header {
+  position: absolute;
+  overflow: hidden;
+}
+.cart-button {
+  top: 32px;
+  right: 96px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-darkolivegreen);
+  width: 126px;
+  height: 48px;
+  color: var(--color-white);
+}
+.header {
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 112px;
+  text-align: center;
+  font-size: var(--font-size-base);
+}
+.stocksy-txp226f62b2ane300-medi-icon {
+  position: absolute;
+  width: calc(100% - 660px);
+  top: 791px;
+  right: 0;
+  left: 660px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 480px;
+  object-fit: cover;
+}
+.homepage {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 2092px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--black);
+  font-family: var(--font-inter);
+}

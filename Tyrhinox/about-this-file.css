@@ -1,0 +1,46 @@
+.about-this-file-child,
+.about-this-file-item {
+  position: absolute;
+  top: 127.1px;
+  left: -18.4px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  border: 3.8px solid var(--black);
+  box-sizing: border-box;
+  width: 16.5px;
+  height: 16.5px;
+}
+.about-this-file-item {
+  top: 95.6px;
+}
+.meet-figma-in {
+  position: absolute;
+  top: 193px;
+  left: 96px;
+  letter-spacing: -0.03em;
+  line-height: 130%;
+  display: flex;
+  align-items: center;
+  width: 900px;
+}
+.this-space-is {
+  position: absolute;
+  top: 311px;
+  left: calc(50% - 504px);
+  font-size: var(--font-size-29xl);
+  letter-spacing: -0.02em;
+  line-height: 150%;
+  display: inline-block;
+  width: 800px;
+}
+.about-this-file {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 720px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 72px;
+  color: var(--black);
+  font-family: var(--font-whyte);
+}

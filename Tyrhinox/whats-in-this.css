@@ -1,0 +1,47 @@
+.check-out-the {
+  position: absolute;
+  top: calc(50% - 264px);
+  left: calc(50% - 504px);
+  letter-spacing: -0.02em;
+  line-height: 150%;
+  display: inline-block;
+  width: 716px;
+}
+.image-1-icon,
+.image-2-icon,
+.image-3-icon {
+  position: absolute;
+  top: 510px;
+  left: 102px;
+  border-radius: var(--br-9xs);
+  width: 300px;
+  height: 436.8px;
+  object-fit: cover;
+}
+.image-2-icon,
+.image-3-icon {
+  left: 450px;
+  height: 213.3px;
+}
+.image-3-icon {
+  left: 798px;
+  height: 227.9px;
+}
+.whats-in-this-child {
+  position: absolute;
+  top: 186px;
+  left: 829px;
+  width: 134px;
+  height: 252px;
+}
+.whats-in-this {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 720px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--black);
+  font-family: var(--font-whyte);
+}

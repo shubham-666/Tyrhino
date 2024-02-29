@@ -1,0 +1,12 @@
+.design-your-own {
+  width: 480px;
+  position: relative;
+  font-size: var(--font-size-29xl);
+  line-height: 130%;
+  font-family: var(--font-figma-hand);
+  color: var(--black);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

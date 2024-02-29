@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-fahkwang: Fahkwang;
+  --font-figma-hand: "Figma Hand";
+  --font-whyte: Whyte;
+  --font-whyte-inktrap: "Whyte Inktrap";
+  --font-inter: Inter;
+  --font-newsreader: Newsreader;
+
+  /* font sizes */
+  --font-size-mini: 15px;
+  --font-size-29xl: 48px;
+  --font-size-11xl: 30px;
+  --font-size-base: 16px;
+  --font-size-13xl: 32px;
+  --font-size-sm: 14px;
+  --font-size-xl: 20px;
+  --font-size-45xl: 64px;
+
+  /* Colors */
+  --color-white: #fff;
+  --black: #000;
+  --color-gainsboro-100: #e6e6e6;
+  --color-darkolivegreen: #426b1f;
+  --color-whitesmoke: #fafaf5;
+  --color-gray: rgba(0, 0, 0, 0.06);
+  --color-dimgray: #6d6d6d;
+  --color-silver: #c2c2c2;
+
+  /* Gaps */
+  --gap-0: 0px;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+  --padding-6xl: 25px;
+  --padding-5xs-5: 7.5px;
+  --padding-25xl: 44px;
+  --padding-13xl: 32px;
+
+  /* Border radiuses */
+  --br-81xl: 100px;
+  --br-9xs: 4px;
+  --br-5xs: 8px;
+  --br-5xl: 24px;
+  --br-xl: 20px;
+}

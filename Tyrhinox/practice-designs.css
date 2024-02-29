@@ -1,0 +1,119 @@
+.shadow1 {
+  position: absolute;
+  top: calc(50% - 34px);
+  left: 72px;
+  background-color: var(--black);
+  width: 797px;
+  height: 151px;
+}
+.corner4 {
+  right: -15px;
+  bottom: -14px;
+  z-index: 0;
+}
+.corner4,
+.corner5,
+.corner6,
+.corner7 {
+  width: 26px;
+  position: absolute;
+  margin: 0 !important;
+  background-color: var(--color-white);
+  border: 4px solid var(--black);
+  box-sizing: border-box;
+  height: 26px;
+}
+.corner5 {
+  bottom: -15px;
+  left: -15px;
+  z-index: 1;
+}
+.corner6,
+.corner7 {
+  top: -15px;
+}
+.corner6 {
+  right: -15px;
+  z-index: 2;
+}
+.corner7 {
+  left: -15px;
+  z-index: 3;
+}
+.practice-designs1 {
+  position: relative;
+  letter-spacing: -0.03em;
+  line-height: 100%;
+  z-index: 4;
+}
+.bounding-headline1 {
+  position: absolute;
+  top: calc(50% - 63.5px);
+  left: 44px;
+  background-color: var(--color-white);
+  border: 4px solid var(--black);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 40px var(--padding-13xl) var(--padding-25xl);
+  gap: 0 10px;
+}
+.vector-icon {
+  position: absolute;
+  top: -86px;
+  left: -282px;
+  width: 852px;
+  height: 844.2px;
+}
+.common-icon-16-pen {
+  position: absolute;
+  top: 187px;
+  left: 576px;
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+}
+.text1 {
+  width: 86px;
+  position: relative;
+  line-height: 45px;
+  font-weight: 500;
+  display: none;
+  z-index: 0;
+}
+.cursor-icon3 {
+  width: 46.5px;
+  position: absolute;
+  margin: 0 !important;
+  top: -46.2px;
+  left: -33.7px;
+  height: 54.8px;
+  z-index: 1;
+}
+.cursor-labels3 {
+  position: absolute;
+  top: 504px;
+  left: 940px;
+  background-color: #ff8577;
+  border: 4px solid var(--black);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) var(--padding-6xl) var(--padding-5xs-5);
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-whyte);
+}
+.practice-designs {
+  width: 100%;
+  position: relative;
+  background-color: #0fa958;
+  height: 720px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 96px;
+  color: var(--black);
+  font-family: var(--font-whyte-inktrap);
+}

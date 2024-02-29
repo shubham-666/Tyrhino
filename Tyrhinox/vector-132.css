@@ -1,0 +1,7 @@
+.vector-div {
+  width: 100%;
+  position: relative;
+  border: 6px solid var(--black);
+  box-sizing: border-box;
+  height: 147px;
+}
